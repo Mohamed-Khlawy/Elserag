@@ -1,0 +1,26 @@
+Q1: what is the main system/process that will be in the centre of the context diagram for this project?
+
+A1: In summary, the main system/process at the center of the context diagram is the "Literacy Platform for Special Needs," emphasizing its central role in the ecosystem of the project.
+------------------------------------------------------------------------------------------------------------------------------------
+Q2: what is the entities that interact directly with the main system/process for this project? 
+
+A2: 1) Users (Educators, Learners, Individuals with Special Needs, Parents, etc.)
+       2) Special Education Institutions
+       3) Advocacy Groups, Policy Makers, Stakeholders
+       4) External Educational Systems and Technologies
+------------------------------------------------------------------------------------------------------------------------------------
+Q3: what is the major flows of data between the previous entities and system/process?
+
+A3: 1) User Input and Interactions: Users (Educators, Learners, Individuals with Special Needs, Parents, etc.) provide input through the platform, such as preferences, learning goals, and engagement with interactive learning tools.
+
+       2) Educational Content and Materials: Special Education Institutions contribute educational content and materials to the platform, tailored to the diverse needs of individuals with special needs.
+
+       3) Feedback and User Performance Data: Users provide feedback on their experiences, effectiveness of learning materials, and overall platform usability. Performance data, including progress tracking, is collected and analyzed by the system.
+
+       4) Policy and Advocacy Information: Advocacy Groups, Policy Makers, and Stakeholders may share information related to educational policies, inclusivity standards, and advocacy efforts to shape the platform's direction.
+
+       5) Integration with External Educational Systems: Data exchange with external educational systems and technologies to ensure interoperability and compatibility, allowing seamless integration into broader educational environments.
+
+       6) Platform Updates and Notifications: The system sends updates, notifications, and announcements to users, institutions, and stakeholders to communicate new features, improvements, or important information.
+
+       7) Data Analytics and Reporting: The system collects and analyzes data for reporting purposes, providing insights into user engagement, learning outcomes, and the overall impact of the platform.
