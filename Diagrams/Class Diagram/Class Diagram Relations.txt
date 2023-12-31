@@ -1,0 +1,36 @@
+1) Learner - Educational Material:
+
+Type: Many-to-Many (A learner can engage with multiple educational materials, and an educational material can be used by multiple learners.)
+---------------------------------
+2) Learner - Educator:
+
+Type: Many-to-Many (A learner can have interactions with multiple educators, and an educator can interact with multiple learners.)
+-----------------------------------
+3) Learner - Caregiver:
+
+Type: One-to-One(A learner can have multiple caregivers, but each caregiver is associated with one learner.) ==>
+----------------------------------
+4) Educator - Educational Material:
+
+Type: One-to-Many (An educator can contribute or recommend multiple educational materials, but each material is associated with one or more educators.)
+----------------------------------
+5) Educator - Special Education Institution:
+
+Type: Many-to-One (An educator may be associated with one institution, but an institution can have multiple educators.)
+-----------------------------------
+6) Educational Policy - Special Education Institution:
+
+Type: Many-to-Many (An educational policy can be associated with one or more institutions, but each institution is associated with multiple policies.)==>
+---------------------------------
+7) Educational Material - Educational Policy:
+
+Type: Many-to-Many (Materials may align with multiple policies, and a policy may influence multiple educational materials.)
+---------------------------------
+8) Customer Service - Special Education Institution:
+
+Type: One-to-Many (A customer service admin can support multiple institutions, but each institution is associated with one admin.)
+--------------------------------
+9) Caregiver - Educator
+
+Type: One-to-Many
+--------------------------------
