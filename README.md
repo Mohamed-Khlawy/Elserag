@@ -37,10 +37,15 @@ Follow these steps to take an overview on the project locally:
 ## Team Members
 
 Mohamed Abdelrahman Elkhlawy ==> https://github.com/Mohamed-Khlawy
+
 Amina Younis Mohammed ==> https://github.com/Aminayounis
+
 Manar Hussein Mohamed ==> https://github.com/ManarHussien33
+
 Norhan Nageh Alabad ==> https://github.com/Norhannageh123
+
 Omar Mohamed Elhassan ==> https://github.com/MorinkashiNotHere
+
 Sarah Nabil Kamel ==> https://github.com/SarahNabilKamel
 
 ## Contribution Guidelines
